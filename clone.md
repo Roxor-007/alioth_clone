@@ -38,4 +38,6 @@ git clone https://github.com/Roxor-007/packages_resources_devicesettings.git pac
 
 git clone https://github.com/Roxor-007/vendor_GcamBSG.git vendor/GcamBSG
 
+git clone https://github.com/Roxor-007/device_xiaomi_extras device/xiaomi/extras
+
 ```
